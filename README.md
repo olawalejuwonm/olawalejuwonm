@@ -3,7 +3,7 @@
 
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/OlawaleJuwonm)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OlawaleJuwonMshow_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OlawaleJuwonM&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlawaleJuwonM&theme=tokyonight)
 <!--
