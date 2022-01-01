@@ -29,14 +29,16 @@ Here are some ideas to get you started:
 ### Hi there 👋
 <h3 align="center">I'm a Full-Stack Mobile and Web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=olawalejuwonm&label=Profile%20views&color=0e75b6&style=flat" alt="olawalejuwonm" /> </p>
-<p align="left"> <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='3%' height='3%'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='3%' height='3%'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='3%' height='3%'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='3%' height='3%'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='3%' height='3%'></a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olawalejuwonm" alt="rvndsngwn" /></a> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=olawalejuwonm&label=Profile%20views&color=0e75b6&style=flat" alt="olawalejuwonm" /> </p> -->
+![](https://visitor-badge.laobi.icu/badge?page_id=OlawaleJuwonM.OlawaleJuwonM)
+<!-- <p align="left"> <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='3%' height='3%'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='3%' height='3%'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='3%' height='3%'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='3%' height='3%'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='3%' height='3%'></a> </p> -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olawalejuwonm" alt="rvndsngwn" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/Wil_AK" target="blank"><img src="https://img.shields.io/twitter/follow/Wil_AK?logo=twitter&style=for-the-badge" alt="Wil_AK" /></a> </p>
+<p align="left"> <a href="https://twitter.com/olawalejuwonm" target="blank"><img src="https://img.shields.io/twitter/follow/Wil_AK?logo=twitter&style=for-the-badge" alt="olawalejuwonm" /></a> </p>
 
 
-<!-- - 🔭 I’m currently working with [Akilli X](https://www.akillix.com/)
+<!-- 
+- 🔭 I’m currently working with [Akilli X](https://www.akillix.com/)
 
 - 🌱 I’m currently learning **GraphQL with Dart and Flutter**
 
@@ -54,7 +56,8 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [Wilfried/Wilhit](https://www.wilfriedkongolo.wilhitorg.com)
 
-- ⚡ Fun fact **I think of coding and designing as breathing** -->
+- ⚡ Fun fact **I think of coding and designing as breathing**
+ -->
 
 
 <h2 align="left">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"></h2>
