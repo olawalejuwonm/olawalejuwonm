@@ -52,7 +52,7 @@ Here are some ideas to get you started:
  -->
 <!-- - 💬 Ask me about **Flutter, Android, Web, Python**
  -->
-- 📫 How to reach me **olawalejuwonm@gmail.com**
+- 📫 How to reach me: Send email to **olawalejuwonm@gmail.com**
 
 <!-- - 📄 Know about my experiences [Wilfried/Wilhit](https://www.wilfriedkongolo.wilhitorg.com)
  -->
