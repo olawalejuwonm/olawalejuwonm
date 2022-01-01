@@ -46,7 +46,7 @@ Here are some ideas to get you started:
  -->
 <!-- - 🤝 I’m looking for help with [DS, AI and ML based projects](https://www.wilfriedkongolo.wilhitorg.com)
  -->
-- 👨‍💻 All of my projects are available at [here](https://olawalejuwonm.herokuapp.com)
+- 👨‍💻 All of my projects are available [here](https://olawalejuwonm.herokuapp.com)
 
 <!-- - 📝 I write articles at times on [Medium](https://medium.com/olawalejuwonm)
  -->
