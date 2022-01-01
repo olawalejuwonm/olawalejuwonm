@@ -34,29 +34,29 @@ Here are some ideas to get you started:
 <!-- <p align="left"> <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='3%' height='3%'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='3%' height='3%'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='3%' height='3%'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='3%' height='3%'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='3%' height='3%'></a> </p> -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olawalejuwonm" alt="rvndsngwn" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/olawalejuwonm" target="blank"><img src="https://img.shields.io/twitter/follow/Wil_AK?logo=twitter&style=for-the-badge" alt="olawalejuwonm" /></a> </p>
+<p align="left"> <a href="https://twitter.com/olawalejuwonm" target="blank"><img src="https://img.shields.io/twitter/follow/olawalejuwonm?logo=twitter&style=for-the-badge" alt="olawalejuwonm" /></a> </p>
 
 
-<!-- 
-- 🔭 I’m currently working with [Akilli X](https://www.akillix.com/)
+ 
+<!-- - 🔭 I’m currently working with [Akilli X](https://www.akillix.com/)
+ -->
+<!-- - 🌱 I’m currently learning **GraphQL with Dart and Flutter**
+ -->
+<!-- - 👯 I’m looking to collaborate on [Flutter Based Projects](https://wilfriedkongolo.wilhitorg.com)
+ -->
+<!-- - 🤝 I’m looking for help with [DS, AI and ML based projects](https://www.wilfriedkongolo.wilhitorg.com)
+ -->
+- 👨‍💻 All of my projects are available at [https://rvndsngwn.github.io/portfolio_one/#/](https://rvndsngwn.dev)
 
-- 🌱 I’m currently learning **GraphQL with Dart and Flutter**
+<!-- - 📝 I write articles at times on [Medium](https://medium.com/@wilhitw)
+ -->
+<!-- - 💬 Ask me about **Flutter, Android, Web, Python**
+ -->
+- 📫 How to reach me **olawalejuwonm@gmail.com**
 
-- 👯 I’m looking to collaborate on [Flutter Based Projects](https://wilfriedkongolo.wilhitorg.com)
-
-- 🤝 I’m looking for help with [DS, AI and ML based projects](https://www.wilfriedkongolo.wilhitorg.com)
-
-<!-- - 👨‍💻 All of my projects are available at [https://rvndsngwn.github.io/portfolio_one/#/](https://rvndsngwn.dev) -->
-
-- 📝 I write articles at times on [Medium](https://medium.com/@wilhitw)
-
-- 💬 Ask me about **Flutter, Android, Web, Python**
-
-- 📫 How to reach me **wilhitw@gmail.com**
-
-- 📄 Know about my experiences [Wilfried/Wilhit](https://www.wilfriedkongolo.wilhitorg.com)
-
-- ⚡ Fun fact **I think of coding and designing as breathing**
+<!-- - 📄 Know about my experiences [Wilfried/Wilhit](https://www.wilfriedkongolo.wilhitorg.com)
+ -->
+<!-- - ⚡ Fun fact **I think of coding and designing as breathing**
  -->
 
 
