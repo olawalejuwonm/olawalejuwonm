@@ -46,9 +46,9 @@ Here are some ideas to get you started:
  -->
 <!-- - 🤝 I’m looking for help with [DS, AI and ML based projects](https://www.wilfriedkongolo.wilhitorg.com)
  -->
-- 👨‍💻 All of my projects are available at [https://rvndsngwn.github.io/portfolio_one/#/](https://rvndsngwn.dev)
+- 👨‍💻 All of my projects are available at [here](https://olawalejuwonm.herokuapp.com)
 
-<!-- - 📝 I write articles at times on [Medium](https://medium.com/@wilhitw)
+<!-- - 📝 I write articles at times on [Medium](https://medium.com/olawalejuwonm)
  -->
 <!-- - 💬 Ask me about **Flutter, Android, Web, Python**
  -->
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 <!-- <a href="https://dev.to/olawalejuwonm" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="olawalejuwonm" height="40" width="40" /></a> -->
 <a href="https://twitter.com/olawalejuwonm" target="blank"><img align="center" src="https://img.icons8.com/doodle/96/000000/twitter--v1.png" alt="olawalejuwonm" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/olawalejuwonm/" target="blank"><img align="center" src="https://img.icons8.com/doodle/96/000000/linkedin--v2.png" alt="olawalejuwonm" height="40" width="40" /></a>
-<a href="https://stackoverflow.com/users/12103749/olawalejuwonm?" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="wilhit" height="40" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/12103749/olawalejuwonm?" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="wilhit" height="40" width="40" /></a> -->
 <a href="https://www.facebook.com/olawalejuwonm" target="blank"><img align="center" src="https://img.icons8.com/doodle/96/000000/facebook-new.png" alt="wilhit" height="40" width="40" /></a>
 <a href="https://www.instagram.com/olawalejuwonm/" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/instagram-new.png" alt="wilhit" height="40" width="40" /></a>
 <a href="https://medium.com/@olawalejuwonm" target="blank"><img align="center" src="https://img.icons8.com/nolan/96/medium-new.png" alt="@wilhit" height="40" width="40" /></a> 
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <!-- <a href="https://www.youtube.com/channel/UCaNK_SsXyXh0IWUE8GuzMkQ/featured" target="blank"><img align="center" src="https://img.icons8.com/doodle/96/000000/youtube--v1.png" alt="wilhit" height="40" width="40" /></a> -->
 </p>
 
-<h2 align="left">Languages and Tools I use <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px></h2>
+<!-- <h2 align="left">Languages and Tools I use <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px></h2>
 <p align="left"> 
 <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
@@ -82,11 +82,11 @@ Here are some ideas to get you started:
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://html.com/html5/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="swift" width="40" height="40"/> </a> 
-</p>
+</p> -->
 
-<h2 align="left">Support <img src = "https://media.giphy.com/media/rvqW0D0PPhHOLB3eK8/giphy.gif" width = 50px></h2>
+<!-- <h2 align="left">Support <img src = "https://media.giphy.com/media/rvqW0D0PPhHOLB3eK8/giphy.gif" width = 50px></h2>
 <!-- <p><a href="https://www.buymeacoffee.com/wilhit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="olawalejuwonm" /></a></p><br><br> -->
-<br>
+<br> -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olawalejuwonm&show_icons=true&locale=en&layout=compact" alt="olawalejuwonm" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olawalejuwonm&show_icons=true&locale=en" alt="olawalejuwonm" /></p>
